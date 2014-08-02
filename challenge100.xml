@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mydatabase>
+	<cat>Science
+		<catid>0</catid>
+		<level>Easy
+			<content>
+				<id>0</id>
+				<question>Vườn quốc gia lớn nhất ở Việt Nam là ?</question>
+				<answer>
+					<a>Yok Đôn</a>
+					<b>Cát Tiên</b>
+					<c>U Minh Hạ</c>
+					<d>U Minh Thượng</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Loại cá gì sống được ở biển và ở sông, cần 4-5 năm để phát triển từ cá bột đến lúc trưởng thành ?</question>
+				<answer>
+					<a>Cá hồi</a>
+					<b>Cá chuối</b>
+					<c>Cá ngừ</c>
+					<d>Cá đuối</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Tranh Đông Hồ được vẽ trên chất liệu gì ?</question>
+				<answer>
+					<a>Giấy gió</a>
+					<b>Giấy vải</b>
+					<c>Giấy hoàng kim</c>
+					<d>Giấy lụa</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Ngày duy nhất trong năm ở Nam Cực mà mặt trời xuất hiện 24 giờ là ngày gì ?</question>
+				<answer>
+					<a>Đông chí</a>
+					<b>Hạ chí</b>
+					<c>Xuân phân</c>
+					<d>Thu phân</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Karate có nghĩa là gì ?</question>
+				<answer>
+					<a>Nhu thuật</a>
+					<b>Tay không</b>
+					<c>Vật</c>
+					<d>Dùng chân</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Nguyên tố hóa học nào đứng đầu bảng tuần hoàn ?</question>
+				<answer>
+					<a>Kali</a>
+					<b>Nitrat</b>
+					<c>Heli</c>
+					<d>Oxi</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Phần mềm nào sau đây không dùng để diệt virus ?</question>
+				<answer>
+					<a>AVG</a>
+					<b>Kaspersky Antivirus</b>
+					<c>Avira Antivirus</c>
+					<d>CCleaner</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Nguyên tố Sn (Thiếc) nằm ở vị trí bao nhiêu trong hệ thống tuần hoàn của Mendeleev ?</question>
+				<answer>
+					<a>48</a>
+					<b>49</b>
+					<c>50</c>
+					<d>51</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Người ta dựa vào yếu tố nào sau đây để đưa ra các khái niệm ngày đông chí và hạ chí ?</question>
+				<answer>
+					<a>Độ dài của ban ngày</a>
+					<b>Nhiệt độ (nóng nhất - lạnh nhất)</b>
+					<c>Khoảng cách Trái Đất so với Mặt Trời (gần nhất - xa nhất)</c>
+					<d>Cả 3 yếu tố trên</d>
+				</answer>
+				<result>a</result>
+			</content>
+
+			<content>
+				<id>9</id>
+				<question>Phím tắt để mở menu Start trong Windows là ?</question>
+				<answer>
+					<a>Ctrl + W</a>
+					<b>Ctrl + S</b>
+					<c>Ctrl + Esc</c>
+					<d>Alt + Esc</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Dạng nước cây xanh sử dụng nhiều nhất là ?</question>
+				<answer>
+					<a>Nước trọng lực</a>
+					<b>Nước mao dẫn</b>
+					<c>Nước liên kết với chất vô cơ, chất hữu cơ</c>
+					<d>Nước liên kết trên bề mặt các hạt đất</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Giao thức để truyền các tập tin trên mạng Internet giữa các máy tính với nhau là ?</question>
+				<answer>
+					<a>SMTP</a>
+					<b>HTTP</b>
+					<c>SNMP</c>
+					<d>FTP</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Một quyển sách giảm giá 20%. Hỏi nó phải tăng lên bao nhiêu % để có được giá trị cũ ?</question>
+				<answer>
+					<a>15%</a>
+					<b>20%</b>
+					<c>25%</c>
+					<d>30%</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Để làm một công việc như tính hóa đơn bán hàng, bạn nên dùng phần mềm nào sau đây ?</question>
+				<answer>
+					<a>Microsoft Word</a>
+					<b>Microsoft Power Point</b>
+					<c>Microsoft Outlook</c>
+					<d>Microsoft Excel</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Trong 4 nhóm máu của con người thì nhóm máu nào có thể tiếp nhận tất cả các nhómm máu còn lại ?</question>
+				<answer>
+					<a>A</a>
+					<b>B</b>
+					<c>O</c>
+					<d>AB</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>HOOC - COOH có tên gọi là gì ?</question>
+				<answer>
+					<a>Axit acrylic</a>
+					<b>Axit acetic</b>
+					<c>Axit oxalic</c>
+					<d>Axit lactic</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+		</level>
+		
+		<level>Hard
+			<content>
+				<id>0</id>
+				<question>Hồ nào có diện tích lớn nhất thế giới ?</question>
+				<answer>
+					<a>Superior</a>
+					<b>Victoria</b>
+					<c>Malawi</c>
+					<d>Michigan-Huron</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Vệ tinh nhân tạo đầu tiên của Trái Đất có tên là ?</question>
+				<answer>
+					<a>Hòa Bình</a>
+					<b>ISS</b>
+					<c>ICS</c>
+					<d>Sputnik</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Ở thành Rome có 1 công trình vừa được chọn làm kỳ quan thế giới mới. Đó là công trình nào ?</question>
+				<answer>
+					<a>Coloseum</a>
+					<b>Panthenon</b>
+					<c>Neptune</c>
+					<d>Pacstum</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Ai là người tìm ra chất kháng sinh ?</question>
+				<answer>
+					<a>A.Flemming</a>
+					<b>D.Pinochio</b>
+					<c>C.Darwin</c>
+					<d>Watson</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Ta có khối thập nhị diện với 10 đỉnh, hãy cho biết số cạnh của khối đa diện này ?</question>
+				<answer>
+					<a>18</a>
+					<b>19</b>
+					<c>20</c>
+					<d>21</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>"Ở 1 nhiệt độ không đổi, áp suất và thể tích của một khối lượng khí được xác định tỉ lệ nghịch với nhau". Đây là phát biểu của định luật nào ?</question>
+				<answer>
+					<a>Định luật Bernuli</a>
+					<b>Định luật Boilo-Mariot</b>
+					<c>Định luật Saclo</c>
+					<d>Định luật Gay Lucxac</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Trong cuộc đấu tranh chống chủ nghĩa thực dan kiểu mới, Mĩ Latinh được mệnh danh là ?</question>
+				<answer>
+					<a>Hòn đảo tự do</a>
+					<b>Lục địa mới trổi dậy</b>
+					<c>Tiền đồ của Chủ nghĩa xã hội</c>
+					<d>Đại lục núi lửa</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Hàm số nào sau đây không phải là hàm số chẵn ?</question>
+				<answer>
+					<a>cos x * sin x</a>
+					<b>sin x * sin x</b>
+					<c>cos x * cos x</c>
+					<d>sin x * tg x</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Tim người gồm bao nhiêu ngăn ?</question>
+				<answer>
+					<a>1</a>
+					<b>2</b>
+					<c>3</c>
+					<d>4</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Độ ẩm của không khí như thế nào thì dẫn đến hiện tượng sương mù ?</question>
+				<answer>
+					<a>Cao</a>
+					<b>Thấp</b>
+					<c>Bán bão hòa</c>
+					<d>Bão hòa</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Đường xích đạo không chạy qua châu lục nào?</question>
+				<answer>
+					<a>Châu Á và Châu Phi</a>
+					<b>Châu Âu và Châu Á</b>
+					<c>Châu Phi và Châu Âu</c>
+					<d>Châu Âu và Châu Nam Cực</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Động vật đa bào đầu tiên là ?</question>
+				<answer>
+					<a>Bọt biển</a>
+					<b>Nhuyễn thế</b>
+					<c>Lưỡng tiêm</c>
+					<d>Táo đa bào</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Ai là người tìm ra vắc xin chữa bệnh dại ?</question>
+				<answer>
+					<a>Edward Jenner</a>
+					<b>Louis Pasteur</b>
+					<c>Alexandre Yersin</c>
+					<d>Hippocrates</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Khủng long bạo chúa có biệt hiệu là ?</question>
+				<answer>
+					<a>King</a>
+					<b>Sát thủ khổng lồ</b>
+					<c>Quái vật cổ đại</c>
+					<d>T-Rex</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Đặc điểm nào sau đây không phải của con người ?</question>
+				<answer>
+					<a>Tay ngắn hơn chân</a>
+					<b>Gót chân không kéo dài ra sau</b>
+					<c>Có cột sống dạng chữ S</c>
+					<d>Có vòm bàn chân</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Tim bạn đập khoảng bao nhiêu lần 1 ngày ?</question>
+				<answer>
+					<a>50.000</a>
+					<b>10.000</b>
+					<c>15.000</c>
+					<d>20.000</d>
+				</answer>
+				<result>a</result>
+			</content>
+		</level>
+	</cat>
+	<cat>Sport
+		<catid>1</catid>
+		<level>Easy
+			<content>
+				<id>0</id>
+				<question>Môn bóng đá là môn Sport mà một đội có bao nhiêu thành viên tham gia thi đấu?</question>
+				<answer>
+					<a>9</a>
+					<b>10</b>
+					<c>11</c>
+					<d>12</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Ông là một trong những cầu thủ vĩ đại nhất của bóng đá thế giới. Ông đã từng giành được chức vô địch thế giới trên cả hai cương vị cầu thủ và huấn luyện viên. Ông là ai ?</question>
+				<answer>
+					<a>Pele</a>
+					<b>M.Platini</b>
+					<c>D.Zoff</c>
+					<d>F.Beckenbauer</d>
+					</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Đội tuyển nào đã đoạt chức vô địch World Cup 4 lần? </question>
+				<answer>
+					<a>Đức</a>
+					<b>Italia</b>
+					<c>Pháp</c>
+					<d>Argentina</d>
+					</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Quốc gia nào đã chính thức giành quyền tổ chức Olympic Mùa Đông năm 2014 ? </question>
+				<answer>
+					<a>Đức</a>
+					<b>Anh</b>
+					<c>Nga</c>
+					<d>Úc</d>
+					</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Đội bóng nào sau đây đã từng vô địch Euro nhiều nhất ?</question>
+				<answer>
+					<a>Pháp</a>
+					<b>Italia</b>
+					<c>Anh</c>
+					<d>Đức</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Bộ sưu tập thành tích bóng đá của Brazil còn khuyết danh hiệu vô địch nào sau đây ?</question>
+				<answer>
+					<a>World Cup</a>
+					<b>Confederation Cup</b>
+					<c>Copa America</c>
+					<d>Olympic</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>CLB nào được Liên đoàn Bóng đá Thế giới (FIFA) chọn là CLB xuất sắc nhất thế kỉ 20 ?</question>
+				<answer>
+					<a>Barcelona</a>
+					<b>Manchester United</b>
+					<c>Real Madrid</c>
+					<d>Inter Milan</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Nguyễn Thúy Hiền đã trở thành vận động viên Việt Nam đầu tiên giành huy chương vàng tại một giải vô địch Wushu thế giới năm bao nhiêu tuổi ?</question>
+				<answer>
+					<a>12</a>
+					<b>14</b>
+					<c>16</c>
+					<d>18</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Loại cờ hiệu nào trong thể loại đua xe công thức 1 báo hiệu xe bị loại khỏi cuộc đua và trở về pit ngay tức khắc ?</question>
+				<answer>
+					<a>Cờ đỏ</a>
+					<b>Cờ vàng</b>
+					<c>Cờ đen</c>
+					<d>Cờ trắng</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Nguồn gốc của môn bóng bàn là từ quốc gia nào ?</question>
+				<answer>
+					<a>Mỹ</a>
+					<b>Trung Quốc</b>
+					<c>Anh</c>
+					<d>Pháp</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Môn Sport Tennis ra đời từ đất nước nào ?</question>
+				<answer>
+					<a>Ý</a>
+					<b>Pháp</b>
+					<c>Đức</c>
+					<d>Mỹ</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Sân vận động "Công viên các hoàng tử" là sân nhà của CLB nào ?</question>
+				<answer>
+					<a>AC Milan</a>
+					<b>AS Roma</b>
+					<c>Ajax Amsterdam</c>
+					<d>Paris Saint Germain</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Zinedine Zidane nhận giải Quả bóng vàng Châu Âu vào năm nào ?</question>
+				<answer>
+					<a>1996</a>
+					<b>1997</b>
+					<c>1998</c>
+					<d>1999</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Đội tuyển Pháp vô địch thế giới vào năm nào ?</question>
+				<answer>
+					<a>1990</a>
+					<b>1994</b>
+					<c>1998</c>
+					<d>2002</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>"Bà đầm già thành Turin" là tên gọi của đội bóng nào ?</question>
+				<answer>
+					<a>Inter Milan</a>
+					<b>Lazio</b>
+					<c>Udinese</c>
+					<d>Juventus</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Môn võ nào bắt nguồn từ Nhật Bản và chủ yếu dùng tay khi đối kháng ?</question>
+				<answer>
+					<a>Teakwondo</a>
+					<b>Judo</b>
+					<c>Akido</c>
+					<d>Karatedo</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+		</level>
+			
+		<level>Hard
+			<content>
+				<id>0</id>
+				<question>Trong môn bóng rổ thi đấu, mỗi đội có bao nhiêu thành viên ?</question>
+				<answer>
+					<a>3</a>
+					<b>4</b>
+					<c>5</c>
+					<d>6</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>“Thùng thuốc súng” là biệt hiệu của đội bóng đá quốc gia nào tại châu Âu ? </question>
+				<answer>
+					<a>Thụy Điển</a>
+					<b>Đan Mạch</b>
+					<c>Nauy</c>
+					<d>Áo</d>
+					</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Cầu môn trong Bóng Đá ngày nay có kích thước : dài 7m32 và cao 2m44 được sử dụng từ khi nào ? </question>
+				<answer>
+					<a>Từ khi LĐBĐ Anh (FA) ra đời năm 1863</a>
+					<b>Từ khi thành lập FIFA năm 1904</b>
+					<c>Từ khi thành lập Hội Đồng Luật của Vương quốc Anh năm 1886</c>
+					<d>Từ khi thành lập LĐBĐ Châu Âu (EUFA) năm 1945</d>
+					</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Liện đoàn bóng đá Anh (FA) được thành lập vào năm nào ? </question>
+				<answer>
+					<a>1862</a>
+					<b>1863</b>
+					<c>1864</c>
+					<d>1865</d>
+					</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Tính đến năm 2007, cầu thủ nào sau đây là cầu thủ ghi bàn xuất sắc nhất mọi thời đại của CLB Barcelona ?</question>
+				<answer>
+					<a>Ronaldo</a>
+					<b>L.Messi</b>
+					<c>Ronaldinho</c>
+					<d>Paulino Alcántara</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Biểu tượng (logo) của SEA Games 22 do ai sáng tác</question>
+				<answer>
+					<a>Bùi Nhật Quang</a>
+					<b>Nguyễn Thái Hùng</b>
+					<c>Nguyễn Quang Vinh</c>
+					<d>Nguyễn Chí Long</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Cho đến năm 2007, Thái Lan đã tổ chức bao nhiêu lần đại hội SEA Games ?</question>
+				<answer>
+					<a>5</a>
+					<b>6</b>
+					<c>7</c>
+					<d>8</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Tính đến năm 2001, thứ hạng cao nhất của đoàn Sport Việt nam qua các kì SEA Games là ?</question>
+				<answer>
+					<a>1</a>
+					<b>2</b>
+					<c>3</c>
+					<d>4</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Lần đầu tiên SEA Games có 10 quốc gia tham dự được tổ chức tại nước nào ?</question>
+				<answer>
+					<a>Việt Nam</a>
+					<b>Singapore</b>
+					<c>Malaysia</c>
+					<d>Thái Lan</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Tính đến năm 2003, số môn thi đấu nhiều nhất ở SEA Games là bao nhiêu ?</question>
+				<answer>
+					<a>42</a>
+					<b>34</b>
+					<c>32</c>
+					<d>22</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Chiếc còi đồng lần đầu tiên được sử dụng trong bóng đá vào năm nào ?</question>
+				<answer>
+					<a>1822</a>
+					<b>1825</b>
+					<c>1875</c>
+					<d>1878</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Thẻ vàng, thẻ đỏ được sử dụng lần đầu tiên tại World Cup năm nào ?</question>
+				<answer>
+					<a>1930</a>
+					<b>1950</b>
+					<c>1970</c>
+					<d>1974</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>SEA Games đầu tiên được tổ chức vào năm nào ?</question>
+				<answer>
+					<a>1955</a>
+					<b>1959</b>
+					<c>1963</c>
+					<d>1967</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Tour de France - giải đua xe đạp nổi tiếng nhất thế giới có từ khi nào ?</question>
+				<answer>
+					<a>1890</a>
+					<b>1903</b>
+					<c>1918</c>
+					<d>1927</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Cầu thủ có biệt hiệu "Chiếc chân trái ma thuật" là ai ?</question>
+				<answer>
+					<a>Zinédine Zidane</a>
+					<b>Roberto Carlos</b>
+					<c>Romário</c>
+					<d>Rivaldo</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Christiano Ronaldo đã đạt danh hiệu Quả bóng vàng Châu Âu vào năm nào ?</question>
+				<answer>
+					<a>2006</a>
+					<b>2007</b>
+					<c>2008</c>
+					<d>2009</d>
+				</answer>
+				<result>c</result>
+			</content>
+		</level>
+	</cat>
+	<cat>Geo_His
+		<catid>2</catid>
+		<level>Easy
+			<content>
+				<id>0</id>
+				<question>Diện tích của Việt Nam là bao nhiêu ?</question>
+				<answer>
+					<a>331.212 km2</a>
+					<b>332.121 km2</b>
+					<c>333.212 km2</c>
+					<d>313.212 km2</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Sông Cầu, sông Thương, sông Lục Nam hợp thành sông gì ?</question>
+				<answer>
+					<a>Sông Hồng</a>
+					<b>Sông Đuống</b>
+					<c>Sông Thái Bình</c>
+					<d>Sông Cả</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Vùng Greenland thuộc lãnh thổ nước nào ?</question>
+				<answer>
+					<a>Canada</a>
+					<b>Mỹ</b>
+					<c>Nauy</c>
+					<d>Đan Mạch</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Nền kinh tế đứng thế nhất thế giới (tính theo GDP) năm 2010 ?</question>
+				<answer>
+					<a>Mỹ</a>
+					<b>Nhật</b>
+					<c>Anh</c>
+					<d>Đức</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Nước nào đông dân nhất khu vực Đông Nam Á ?</question>
+				<answer>
+					<a>Indonesia</a>
+					<b>Malaysia</b>
+					<c>Thái Lan</c>
+					<d>Việt Nam</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Tổ chức Nông lương Liên hợp quốc có tên viết tắt là gì ?</question>
+				<answer>
+					<a>FAO</a>
+					<b>FAU</b>
+					<c>FTU</c>
+					<d>UTO</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Quốc gia đông dân nhất ở Châu Phi ?</question>
+				<answer>
+					<a>Nigeria</a>
+					<b>Tanzania</b>
+					<c>Somali</c>
+					<d>Nam Phi</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Thành phố được mệnh danh là Venice của phương Bắc là ?</question>
+				<answer>
+					<a>Amsterdam</a>
+					<b>Copehagen</b>
+					<c>Stockholm</c>
+					<d>Helsinky</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Kilimanjaro là ngọn núi cao nhất châu lục nào ?</question>
+				<answer>
+					<a>Châu Á</a>
+					<b>Châu Mỹ</b>
+					<c>Châu Phi</c>
+					<d>Châu Âu</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Nước nào thuộc Liên minh Châu Âu EU có diện tích rộng nhất ?</question>
+				<answer>
+					<a>Pháp</a>
+					<b>Đức</b>
+					<c>Thụy Điển</c>
+					<d>Tây Ban Nha</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Lê Hoàn đã chiến thắng quân xâm lược nào trên sông Bạch Đằng năm 981 ?</question>
+				<answer>
+					<a>Quân Nam Hán</a>
+					<b>Quân Bắc Hán</b>
+					<c>Quân Đường</c>
+					<d>Quân Tống</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Đảo lớn nhất Địa Trung Hải là ?</question>
+				<answer>
+					<a>Cyprus</a>
+					<b>Crete</b>
+					<c>Sicily</c>
+					<d>Rhode</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Thủ đô của Canada là ?</question>
+				<answer>
+					<a>Ottawa</a>
+					<b>Ontario</b>
+					<c>Montreal</c>
+					<d>Quebec</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Quê hương của bia Heineken ở đâu ?</question>
+				<answer>
+					<a>Thụy Sĩ</a>
+					<b>Anh</b>
+					<c>Hà Lan</c>
+					<d>Đan Mạch</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Phong trào "Văn hóa Phục Hưng" xuất hiện đầu tiên ở nước nào ?</question>
+				<answer>
+					<a>Ý</a>
+					<b>Pháp</b>
+					<c>Đức</c>
+					<d>Anh</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Him Lam là cứ điểm tiêu diệt thứ mấy trong chiến dịch Điện Biên Phủ ?</question>
+				<answer>
+					<a>Thứ nhất</a>
+					<b>Thứ hai</b>
+					<c>Thứ ba</c>
+					<d>Thứ tư</d>
+				</answer>
+				<result>a</result>
+			</content>
+		</level>
+		
+		<level>Hard
+			<content>
+				<id>0</id>
+				<question>Cách mạng tháng Tám kết thúc vào ngày tháng năm nào ?</question>
+				<answer>
+					<a>30.8.1954</a>
+					<b>29.8.1954</b>
+					<c>30.8.1945</c>
+					<d>29.8.1945</d>
+				</answer>
+				<result>c</result>
+			</content>
+					
+			<content>
+				<id>1</id>
+				<question>Nền kinh tế đứng thứ 3 thế giới (tính theo GDP) năm 2010 ?</question>
+				<answer>
+					<a>Mỹ</a>
+					<b>Anh</b>
+					<c>Nhật</c>
+					<d>Đức</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Con sông chảy qua nhiều quốc gia nhất là ?</question>
+				<answer>
+					<a>Sông Trường Giang</a>
+					<b>Sông Mekong</b>
+					<c>Sông Danube</c>
+					<d>Sông Vonga</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Trụ sở của nghị viện Châu Âu nằm ở đâu ?</question>
+				<answer>
+					<a>Geneve</a>
+					<b>Paris</b>
+					<c>London</c>
+					<d>Strasbourg</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Cho biết tử suất trung bình của thế giới là bao nhiêu ?</question>
+				<answer>
+					<a>0.5 %</a>
+					<b>0.7 %</b>
+					<c>1 %</c>
+					<d>1.2 %</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Tỉnh nào duy nhất ở Việt Nam có 1 thành phố và 3 thị xã trực thuộc ?</question>
+				<answer>
+					<a>Quảng Nam</a>
+					<b>Quảng Ngãi</b>
+					<c>Nghệ An</c>
+					<d>Quảng Ninh</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Giai đoạn "Đông Chu Liệt Quốc" trong lịch sử Trung Hoa tính từ thời nhà nào đến thời nhà nào ?</question>
+				<answer>
+					<a>Từ nhà Chu đến nhà Tùy</a>
+					<b>Từ nhà Chu đến nhà Tần</b>
+					<c>Từ nhà Tần đến nhà Tống</c>
+					<d>Từ nhà Tần đến nhà Nguyên</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Hoàng hậu Mari Antoanet của nước Pháp là vợ của vua nào ?</question>
+				<answer>
+					<a>Luis 13</a>
+					<b>Luis 14</b>
+					<c>Luis 15</c>
+					<d>Luis 16</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Thành phố nào là trung tâm của cuộc Cách mạng tháng 10 ở Nga ?</question>
+				<answer>
+					<a>Bacu</a>
+					<b>Moskva</b>
+					<c>Stalingrad</c>
+					<d>Saint Peterburg</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Họ tên đầy đủ của Thi Sách là ?</question>
+				<answer>
+					<a>Đặng Thi Sách</a>
+					<b>Nguyễn Thi Sách</b>
+					<c>Lê Thi Sách</c>
+					<d>Ngô Thi Sách</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Đất nước nào trên thế giới có hình dạng giống quả ớt ?</question>
+				<answer>
+					<a>Cuba</a>
+					<b>Chile</b>
+					<c>Đức</c>
+					<d>Brazil</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Ai là nhà quân sư thiên tài đã cùng với các vua Trần và hàng loạt tướng lĩnh tài năng chiến đấu chống quân xâm lược Mông - Nguyên giành thắng lợi về cho tổ quốc?</question>
+				<answer>
+					<a>Trần Khánh Dư</a>
+					<b>Trần Hưng Đạo</b>
+					<c>Trần Thủ Độ</c>
+					<d>Trần Quang Khải</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Hành động nào sau đây được coi là tuyên bố ly hôn dưới thời Lê ?</question>
+				<answer>
+					<a>Xé áo</a>
+					<b>Đập niêu cơm</b>
+					<c>Đập vỡ bát</c>
+					<d>Bẻ gãy đôi đữa</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Hồ nào ở Hà Nội từng có tên là Hồ Kim Ngưu (nay đã đổi tên) ?</question>
+				<answer>
+					<a>Hồ Tây</a>
+					<b>Hồ Gươm</b>
+					<c>Hồ Thủ Lệ</c>
+					<d>Hồ Trúc Bạch</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Nền văn minh Babylon ngày nay thuộc đất nước nào ?</question>
+				<answer>
+					<a>Iran</a>
+					<b>Thổ Nhĩ Kỳ</b>
+					<c>Arab Saudi</c>
+					<d>Iraq</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Đất nước nào là quê hương của ông già tuyết ?</question>
+				<answer>
+					<a>Phần Lan</a>
+					<b>Hà Lan</b>
+					<c>Đan Mạch</c>
+					<d>Na Uy</d>
+				</answer>
+				<result>a</result>
+			</content>
+		</level>
+	</cat>
+	<cat>Culture
+		<catid>3</catid>
+		<level>Easy
+			<content>
+				<id>0</id>
+				<question>Việt Nam là một nước theo chế độ xã hội nào ?</question>
+				<answer>
+					<a>Chủ nghĩa tư bản</a>
+					<b>Dân chủ tư bản</b>
+					<c>Xã hội chủ nghĩa</c>
+					<d>Phong kiến</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Thành phố đông dân nhất thế giới hiện nay là thành phố nào ?</question>
+				<answer>
+					<a>New York</a>
+					<b>Mexico City</b>
+					<c>Tokyo</c>
+					<d>Thượng Hải</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Đàn Ta-lư là của dân tộc nào của Việt Nam ?</question>
+				<answer>
+					<a>H'mông</a>
+					<b>Thái</b>
+					<c>Vân Kiều</c>
+					<d>Raglai</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Đất nước Argentina nổi tiếng nhất với điệu nhảy cổ điển nào ?</question>
+				<answer>
+					<a>Rumba</a>
+					<b>Tango</b>
+					<c>Chachacha</c>
+					<d>Salsa</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Biểu tượng của đạo Hồi là gì ?</question>
+				<answer>
+					<a>Sao 6 cánh</a>
+					<b>Cây thánh giá</b>
+					<c>Trăng lưỡi liềm</c>
+					<d>Bánh xe ngược</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Nước nào có tên gọi cũ là Ba-tư ?</question>
+				<answer>
+					<a>Iran</a>
+					<b>Iraq</b>
+					<c>Ai Cập</c>
+					<d>Butan</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Thủ đô của Việt Nam là ?</question>
+				<answer>
+					<a>Đà Nẵng</a>
+					<b>Hà Nội</b>
+					<c>Thành phố Hồ Chí Minh</c>
+					<d>Hạ Long</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Trang web tìm kiếm được nhiều người truy cập nhất hiện nay ?</question>
+				<answer>
+					<a>Yahoo</a>
+					<b>Bing</b>
+					<c>Youtube</c>
+					<d>Google</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Quốc gia có cộng đồng Thiên chúa giáo lớn nhất ở châu Á là ?</question>
+				<answer>
+					<a>Việt Nam</a>
+					<b>Malaysia</b>
+					<c>Thái Lan</c>
+					<d>Philippines</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Nước nào có sản lượng khai thác vàng lớn nhất thế giới hiện nay ?</question>
+				<answer>
+					<a>Nam Phi</a>
+					<b>Nga</b>
+					<c>Mỹ</c>
+					<d>Trung Quốc</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Trong các tên sau đây, tên nào từng là tên gọi của Lê-nin ?</question>
+				<answer>
+					<a>Vladimir Ilits Ulianov</a>
+					<b>K.Tulin</b>
+					<c>Karpov</c>
+					<d>Tất cả đều đúng</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Con chuồn chuồn bay trên không thỉnh thoảng nhào xuống mặt nước, người ta gọi là chuồn chuồn đạp nước. Chúng làm thế để làm gì ?</question>
+				<answer>
+					<a>Uống nước</a>
+					<b>Đẻ trứng</b>
+					<c>Bắt côn trùng để ăn</c>
+					<d>Dùng mặt nước làm bệ phóng giúp bay cao hơn</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Người nào trên thế giới sử dụng đũa nhiều nhất ?</question>
+				<answer>
+					<a>Trung Quốc</a>
+					<b>Hàn Quốc</b>
+					<c>Nhật Bản</c>
+					<d>Hàn Quốc</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Bệnh còi xương là do thiếu Vitamin gì ?</question>
+				<answer>
+					<a>Vitamin A</a>
+					<b>Vitamin C</b>
+					<c>Vitamin D</c>
+					<d>Vitamin E</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Trong các loại đĩa sau đây, loại nào không ghi được nhiều lần ?</question>
+				<answer>
+					<a>Đĩa cứng</a>
+					<b>Đĩa mềm</b>
+					<c>Đĩa CD</c>
+					<d>Đĩa CDRW</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Người phụ nữ đầu tiên vào không gian là người nước nào ?</question>
+				<answer>
+					<a>Hoa Kì</a>
+					<b>Liên Xô</b>
+					<c>Trung Quốc</c>
+					<d>Mỹ</d>
+				</answer>
+				<result>b</result>
+			</content>
+		</level>
+		
+		<level>Hard
+			<content>
+				<id>0</id>
+				<question>Việt Nam có tổng cộng bao nhiêu dân tộc cùng sinh sống ?</question>
+				<answer>
+					<a>52</a>
+					<b>53</b>
+					<c>54</c>
+					<d>55</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Nơi nào sinh sản ra những điệu Valse nổi tiếng ?</question>
+				<answer>
+					<a>London</a>
+					<b>Paris</b>
+					<c>Viene</c>
+					<d>Berlin</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Lá cờ nước Anh có tên gọi là gì ?</question>
+				<answer>
+					<a>The Union Jack</a>
+					<b>The Jack Union</b>
+					<c>God save the Queen</c>
+					<d>The Queen Union</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Quốc ca của nước Anh có tên gọi là gì ?</question>
+				<answer>
+					<a>Save the Queen</a>
+					<b>Viva the Queen</b>
+					<c>Your majesty</c>
+					<d>God save the Queen</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Năm 1980, Phạm Tuân đã mang theo loại cây gì ra ngoài Trái Đất ?</question>
+				<answer>
+					<a>Cây rau muống</a>
+					<b>Rau cải</b>
+					<c>Hoa hồng</c>
+					<d>Bèo hoa dâu</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Người giữ chức tổng thống lâu nhất ở Hoa Kì là ai ?</question>
+				<answer>
+					<a>A.Lincoln</a>
+					<b>G.Bush</b>
+					<c>B.Clinton</c>
+					<d>F.Roosevelt</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Tổ chức "Năng lượng nguyên tử thế giới" có tên viết tắt là gì ?</question>
+				<answer>
+					<a>IAAE</a>
+					<b>IAEA</b>
+					<c>IBM</c>
+					<d>IBCC</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>7</id>
+				<question>Thủ đô của New Zealand là ?</question>
+				<answer>
+					<a>Canberra</a>
+					<b>Greenland</b>
+					<c>Wellington</c>
+					<d>Fiji</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Trang web được nhiều người truy cập nhất (theo thống kê của Alexa) là gì ?</question>
+				<answer>
+					<a>Yahoo</a>
+					<b>Google</b>
+					<c>MSN</c>
+					<d>Youtube</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Tiền thân của tổ chức WTO là tổ chức nào ?</question>
+				<answer>
+					<a>WTA</a>
+					<b>HCI</b>
+					<c>ICAO</c>
+					<d>GATT</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Kỳ quan cổ đại duy nhất còn tồn tai cho tới hiện nay ?</question>
+				<answer>
+					<a>Vườn treo Babylon</a>
+					<b>Ngọn hải đăng Alexandria</b>
+					<c>Vạn lý trường thành</c>
+					<d>Kim tự tháp Keops</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Nước nào có trữ lượng dầu lớn thứ 2 trên thế giới ?</question>
+				<answer>
+					<a>Nga</a>
+					<b>Trung Quốc</b>
+					<c>Iran</c>
+					<d>Iraq</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Tính đến năm 2004, Giải Nobel Sinh lý và y học đã được trao bao nhiêu lần ?</question>
+				<answer>
+					<a>90 lần</a>
+					<b>93 lần</b>
+					<c>95 lần</c>
+					<d>98 lần</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Hành tinh nào có ngày dài nhất ?</question>
+				<answer>
+					<a>Sao Kim</a>
+					<b>Sao Thủy</b>
+					<c>Sao Thổ</c>
+					<d>Sao Mộc</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Người ta dùng từ "Zodiac" để chỉ các chòm sao hoàng đạo. Vậy "Zodiac" có nghĩa là gì ?</question>
+				<answer>
+					<a>Con người</a>
+					<b>Chòm sao</b>
+					<c>Mặt trời</c>
+					<d>Động vật</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Những ngân phiếu đầu tiên trên thế giới được in ở đâu ?</question>
+				<answer>
+					<a>Thụy Sĩ</a>
+					<b>Anh</b>
+					<c>Mỹ</c>
+					<d>Thụy Điển</d>
+				</answer>
+				<result>d</result>
+			</content>
+		</level>
+	</cat>
+	<cat>Art
+		<catid>4</catid>
+		<level>Easy
+			<content>
+				<id>0</id>
+				<question>Tên thật của ca sĩ Lam Trường là gì ?</question>
+				<answer>
+					<a>Phạm Lam Trường</a>
+					<b>Tiêu Lam Trường</b>
+					<c>Nguyễn Lam Trường</c>
+					<d>Trần Lam Trường</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Nhạc sĩ Trịnh Công Sơn từng đoạt giải "Đĩa vàng" tại Nhật với ca khúc nào ?</question>
+				<answer>
+					<a>Bông hồng cài áo</a>
+					<b>Ngủ đi con</b>
+					<c>Nguồn cội</c>
+					<d>Huyền thoại mẹ</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Nhà hát kịch nổi tiếng thế giới cả 3 mặt dều hướng ra biển thuộc đất nước nào ?</question>
+				<answer>
+					<a>Anh</a>
+					<b>Úc</b>
+					<c>Mỹ</c>
+					<d>Thụy Điển</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Danh họa nổi tiếng "Van Gogh" là người nước nào ?</question>
+				<answer>
+					<a>Nga</a>
+					<b>Bỉ</b>
+					<c>Canada</c>
+					<d>Hà Lan</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Ban nhạc huyền thoại nào thể hiện ca khúc "Yesterday" ?</question>
+				<answer>
+					<a>ABBA</a>
+					<b>U2</b>
+					<c>Queen</c>
+					<d>The Beatles</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Nhân vật được vẽ trong bức tranh "La Joconde" là ai ?</question>
+				<answer>
+					<a>Venus</a>
+					<b>Đức mẹ Đồng trinh</b>
+					<c>Mona Lisa</c>
+					<d>Maria Antoinet</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Ai là thần ánh sáng, thần thi ca, thần âm nhạc, thần tiên tri trong huyền thoại Hi Lạp ?</question>
+				<answer>
+					<a>Ares</a>
+					<b>Apollo</b>
+					<c>Hera</c>
+					<d>Athena</d>
+				</answer>
+				<result>b</result>
+			</content>
+			<content>
+				<id>7</id>
+				<question>Album Thriller của nam danh ca Micheal Jackson được hãng đĩa Epic phát hành năm nào ?</question>
+				<answer>
+					<a>1980</a>
+					<b>1981</b>
+					<c>1982</c>
+					<d>1983</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Ca sĩ nào chuyên dòng nhạc Country ?</question>
+				<answer>
+					<a>Adam Levine</a>
+					<b>Eminem</b>
+					<c>Elvis Presley</c>
+					<d>Blake Shelton</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Bài hát "Tiến quốc ca" trở thành quốc ca của nước ta vào năm bao nhiêu ?</question>
+				<answer>
+					<a>1944</a>
+					<b>1945</b>
+					<c>1946</c>
+					<d>1947</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Nhạc sĩ sáng tác bài "Bác đang cùng chúng cháu hành quân" là ai ?</question>
+				<answer>
+					<a>Huy Du</a>
+					<b>Huy Thục</b>
+					<c>Văn Cao</c>
+					<d>Phạm Tuyên</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Đàn ghi ta có nguồn gốc từ ?</question>
+				<answer>
+					<a>Bồ Đào Nha</a>
+					<b>Hà Lan</b>
+					<c>Nga</c>
+					<d>Tây Ban Nha</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Ai là á quân American Idol mùa thứ 7 (2008) ?</question>
+				<answer>
+					<a>David Cook</a>
+					<b>David Archuleta</b>
+					<c>Jordin Sparks</c>
+					<d>Adam Lambert</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Alica Keys đã đạt bao nhiêu giải Grammy ?</question>
+				<answer>
+					<a>12</a>
+					<b>13</b>
+					<c>14</c>
+					<d>15</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>"The cup of life" là ca khúc cổ động cho giải đấu nào ?</question>
+				<answer>
+					<a>Euro 2000</a>
+					<b>World cup 2002</b>
+					<c>Euro 2004</c>
+					<d>World cup 1998</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Nhóm nhạc Big Bang chính thức xuất hiện trước công chúng (debut) vào năm nào ?</question>
+				<answer>
+					<a>2003</a>
+					<b>2004</b>
+					<c>2005</c>
+					<d>2006</d>
+				</answer>
+				<result>d</result>
+			</content>
+		</level>
+		
+		<level>Hard
+			<content>
+				<id>0</id>
+				<question>Năm sinh của ca sĩ Mỹ Tâm ?</question>
+				<answer>
+					<a>1979</a>
+					<b>1980</b>
+					<c>1981</c>
+					<d>1982</d>
+				</answer>
+				<result>c</result>
+			</content>
+			
+			<content>
+				<id>1</id>
+				<question>Bài hát trong phim "Vợ chồng A Phủ" là gì ?</question>
+				<answer>
+					<a>Bài ca trên núi</a>
+					<b>Chảy đi sông ơi</b>
+					<c>Dư âm</c>
+					<d>Huyền thoại hồ núi Cốc</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>2</id>
+				<question>Truyện Kiều của đại thi hào Nguyễn Du có tổng cộng bao nhiêu câu thơ ?</question>
+				<answer>
+					<a>3200</a>
+					<b>3201</b>
+					<c>3251</c>
+					<d>3254</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>3</id>
+				<question>Tác phẩm nổi tiếng "Chuông nguyện hồn ai" là của nhà văn nào ?</question>
+				<answer>
+					<a>Hector Malot</a>
+					<b>Victor Hugo</b>
+					<c>Mark Twain</c>
+					<d>Ernest Miller Hemingway</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>4</id>
+				<question>Truyện sự tích trầu cau theo truyền thuyết đã xảy ra vào thời vua Hùng thứ bao nhiêu ?</question>
+				<answer>
+					<a>10</a>
+					<b>12</b>
+					<c>14</c>
+					<d>16</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>5</id>
+				<question>Nhà thơ Ấn Độ Tago được tặng giải Nobel Văn học với tập thơ nào ?</question>
+				<answer>
+					<a>Dâng</a>
+					<b>Gora</b>
+					<c>Thanh Ca</c>
+					<d>Hoàng hôn thế kỷ</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>6</id>
+				<question>Bức tranh "Thiếu nữ bên hoa huệ" của tác giả nào ?</question>
+				<answer>
+					<a>Trần Văn Cẩn</a>
+					<b>Tô Ngọc Vân</b>
+					<c>Bùi Xuân Phái</c>
+					<d>Nguyễn Sáng</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>8</id>
+				<question>Nhạc sĩ Nguyễn Đình Phúc đã nhắc đến cây đàn nào trong câu hát “ Cung thanh là tiếng mẹ, cung trầm là giọng cha”? </question>
+				<answer>
+					<a>Đàn nhị</a>
+					<b>Đàn bầu</b>
+					<c>Sáo</c>
+					<d>Đàn tam thập lục</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>9</id>
+				<question>Ban nhạc ABBA đến từ nước nào ?</question>
+				<answer>
+					<a>Nauy</a>
+					<b>Đan Mạch</b>
+					<c>Đức</c>
+					<d>Thụy Điển</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>10</id>
+				<question>Quê hương của nhạc sĩ Beethoven là ở ?</question>
+				<answer>
+					<a>Bonn</a>
+					<b>Berlin</b>
+					<c>Hamburg</c>
+					<d>Bremen</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>11</id>
+				<question>Nhóm nhạc Maroon 5 đã đoạt bao nhiêu giải Grammy ?</question>
+				<answer>
+					<a>2</a>
+					<b>3</b>
+					<c>4</c>
+					<d>5</d>
+				</answer>
+				<result>b</result>
+			</content>
+			
+			<content>
+				<id>12</id>
+				<question>Album đầu tay của ban nhạc The Beatle là ?</question>
+				<answer>
+					<a>Please please me</a>
+					<b>Yesterday</b>
+					<c>I want to hold your hand</c>
+					<d>With The Beatle</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>13</id>
+				<question>Hiện tại nhóm nhạc rock Linkin Park có bao nhiêu thành viên ?</question>
+				<answer>
+					<a>3</a>
+					<b>4</b>
+					<c>5</c>
+					<d>6</d>
+				</answer>
+				<result>d</result>
+			</content>
+			
+			<content>
+				<id>14</id>
+				<question>Ca sĩ hát nhạc rap Eminem là người nước nào ?</question>
+				<answer>
+					<a>Mỹ</a>
+					<b>Canada</b>
+					<c>Anh</c>
+					<d>Đức</d>
+				</answer>
+				<result>a</result>
+			</content>
+			
+			<content>
+				<id>15</id>
+				<question>Ca sĩ hát nhạc rap Eminem bắt đầu hoạt động từ năm nào ?</question>
+				<answer>
+					<a>1997</a>
+					<b>1998</b>
+					<c>1999</c>
+					<d>2000</d>
+				</answer>
+				<result>b</result>
+			</content>
+		</level>
+	</cat>
+</mydatabase>
